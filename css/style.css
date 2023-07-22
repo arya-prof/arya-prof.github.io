@@ -177,3 +177,9 @@ section {
 .social-items a:hover{
   color: #09f;
 }
+.footer{
+  background-color: #000000;
+  color: #888888;
+  text-align: center;
+  padding: 20px;
+}
